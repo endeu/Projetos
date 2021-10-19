@@ -1,0 +1,82 @@
+body {
+background-color: #ffffff;
+font-family: 'Rubik', sans-serif;
+}
+.container{
+width: 960px;
+margin: auto;
+box-shadow: 0 0 1em black;
+;
+}
+.cabecalho {
+background-color: #003650;
+height: 80px;
+display: flex;
+justify-content: space-between;
+}
+.logo {
+padding: 0px 80px;
+color: white;
+line-height: 40px;
+}
+.itens {
+
+}
+.item {
+line-height: 80px;
+padding: 0px 65px;
+text-decoration: none;
+color: white;
+}
+.img-capa{
+}
+.apresentation{
+background-color: #ebebeb;
+padding: 80px 150px
+}
+.services{
+background-color: #003650;
+padding: 70px;
+color: white;
+}
+.listservico{
+display: flex;
+justify-content: space-between;
+}
+.tipos{
+width: 160px;
+}
+.img-tipos {
+text-align: center;
+}
+.cliente{
+background-color: #ebebeb;
+padding: 70px;
+}
+.img-times {
+width: 160px;
+}
+.time{
+display: flex;
+justify-content: space-between;
+
+}
+.localiza {
+background-color: #003650;
+padding: 70px;
+display: flex;
+justify-content: space-between;
+}
+.textlocaliza{
+color: white;
+width: 315px;
+}
+.title{
+margin-top: 0px;
+}
+.iframe {
+}
+.rodape{
+color: #003650;
+text-align: center;
+}
