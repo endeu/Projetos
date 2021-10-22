@@ -1,0 +1,123 @@
+.azul {
+    background-color: #003650;
+    color: white;
+}
+.branco {
+    background-color: #ebebeb;
+}
+.img-cover {
+    width: 100%;
+}
+body {
+    background-color: white;
+}
+.intro {
+    padding: 150px;
+}
+.clients {
+    padding: 100px;
+}
+.maps {
+    padding: 100px;
+}
+iframe {
+    height: 400px;
+    width: 400px;
+}
+.services {
+    padding: 100px;
+}
+.cover img {
+    width: 100%;
+}
+.logo {
+    width: 210px;
+    height: auto;
+}
+.card, .card-img-top {
+    border:0px;
+    padding: 10px;
+}
+h1, h4{
+    font-weight: bold;
+    font-style: italic;
+}
+h1 {
+    padding-bottom: 30px;
+}
+p {
+    font-size: 18px;
+    line-height: 25px;
+}
+.row-clients {
+    padding-top: 30px;
+}
+.nav-link, .navbar-brand {
+    margin: 0px 40px;
+    font-size: 20px;
+    font-style: italic;
+}
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+}
+footer {
+    color: #003650;
+    padding: 20px;
+    font-style: italic;
+    font-size: 20px;
+}
+.nav-itens {
+    display: flex;
+    justify-content: flex-end;
+}
+
+@media screen and (max-width: 991px) {
+    .nav-itens {
+        display: flex;
+        justify-content: flex-start;
+
+    }
+    .intro {
+        padding: 80px;
+    }
+    .services {
+        padding: 50px;
+    }
+    .clients {
+        padding: 50px;
+    }
+    .maps {
+        padding: 50px;
+    }
+    .pdd-right {
+        margin-right: 10px;
+    }
+    iframe {
+        height: 400px;
+        width: 400px;
+    }
+    
+}
+
+@media screen and (max-width: 572px) {
+    .nav-itens {
+        display: block;
+    }
+    .intro {
+        padding: 80px;
+    }
+    .clients {
+        padding: 50px;
+    }
+    .maps {
+        padding: 50px;
+    }
+    .pdd-right {
+        margin-right: 10px;
+    }
+    iframe {
+        height: 400px;
+        width: 400px;
+    
+}
