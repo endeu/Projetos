@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+}
+.fundo{ 
+    background-image: linear-gradient(to bottom right, #EAEBED, #00C2D1);
+    width: 100%;
+    height: 100vh
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.btn-group {
+    text-align: center;
+}
+.conteudo{
+    background-color: rgb(250, 250, 250, 0.5);
+    width: 450px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+.botao {
+    width: 300px;
+}
+.botoes {
+    padding-left: 13%;
+    padding-top: 15px;
+}
+.inicial {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    font: 14px sans-serif;
+}
+
+.wrapper {
+    width: 450px;
+    padding: 20px;
+}
+.linha {
+    display: flex
+}
