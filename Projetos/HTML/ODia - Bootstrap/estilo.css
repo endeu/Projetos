@@ -1,0 +1,201 @@
+.container {
+    width: 1440px;
+    margin: auto;
+}
+h1, h2, h3 {
+    font-family: 'Roboto Slab', serif;;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color: #EBEBEB;
+}
+.container_content {
+    width: 960px;
+    margin: auto;
+}
+.line {
+    background-color: greenyellow;
+    padding-left: 5px;
+}
+.line h2 {
+    margin: 0px;
+}
+.front {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+.breaking_news {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px
+}
+.gossip {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px
+}
+.gossip_topic {
+    width: 225px;
+    background-color: white;
+    box-shadow: 0px 3px 10px black  
+}
+.gossip img {
+    width: 225px;
+}
+.baseboard {
+    background-color: greenyellow;
+}
+.baseboard h2, .baseboard p{
+    margin: 0px;
+}
+.icons {
+    display: flex;
+    margin-top: 5px;
+    padding: 50px 0px;
+}
+.baseboard_info {
+    margin-top: 45px;
+}
+.icons img {
+    width: 35px;
+    height: 35px;
+    padding-left: 8px;
+}
+.baseboard_content {
+    display: flex;
+    justify-content: space-between;
+}
+.interview {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px
+}
+.notice {
+    width: 225px;
+    background-color: white;
+    box-shadow: 0px 3px 10px black
+}
+.notice img {
+    width: 225px;
+}
+.front_img {
+    width: 470px;
+}
+.front_content {
+    width: 470px;
+}
+.interview_content {
+    width: 225px;
+}
+.interview h2 {
+    margin-top: 0px;
+}
+.front h2 {
+    margin-top: 0px;
+}
+.notice p, .notice h3 {
+    padding: 0px 6px;
+}
+.gossip_topic p, .gossip_topic h3{
+    padding: 0px 6px;
+}
+.width_line {
+    width: 960px;
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+}
+.header {
+    background-color: greenyellow;
+}
+.header p {
+    line-height: 50px;
+}
+@media screen and (max-width:600px) {
+    .container {
+        width: 100%;
+    }
+    .width_line{
+        display: block;
+    }
+    .header_content H1, P {
+        margin: 0px;
+    }
+    .header_content {
+        padding: 5px 10px;
+    }
+    .container_content {
+        width: 100%;
+    }
+    .front {
+        width: 100%;
+        display: block;
+    }
+    .front_content {
+        width: 100%;
+    }
+    .front img {
+        width: 100%;
+    }
+    .breaking_news {
+        width: 100%;
+        display: block;
+        padding: 20px 0px 0px 0px;
+    }
+    .notice, .notice img {
+        width: 100%;
+    }
+    .notice_info {
+        padding: 10px
+    }
+    .notice {
+        margin-bottom: 20px;
+    }
+    .interview {
+        width: 100%;
+        display: block;
+    }
+    .interview iframe {
+        height: 100%;
+        width: 100%;
+    }
+    .interview_content {
+        width: 100%;
+        padding: 20px 10px;
+    }
+    .gossip {
+        width: 100%;
+        display: block;
+        padding: 20px 0px 0px 0px
+    }
+    .gossip_topic, .gossip img {
+        width: 100%;
+    }
+    .gossip_topic {
+        margin-bottom: 20px;
+    }
+    .gossip_info {
+        padding: 0px 10px 10px 10px;
+    }
+    .baseboard_info {
+        padding: 10px 20px;
+        margin: 0px;
+        
+    }
+    .icons img {
+        padding-left: 0px;
+        padding-right: 8px;
+    }
+    .icons {
+        padding: 25px 0px 15px 20px;
+    }
+    .header h1 {
+        margin: 0px;
+    }
+    .header {
+        padding-left: 10px;
+    }      
+}
