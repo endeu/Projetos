@@ -1,0 +1,1 @@
+Projeto realizado na aula de desenvolvimento web, onde foi proposto um ajuste na função valido() para que a verificação ocorra pesquisando-se as credenciais presentes no arquivo senhas.txt O arquivo senhas.txt possui o formato a seguir: USER=fatec|PASS=araras.
