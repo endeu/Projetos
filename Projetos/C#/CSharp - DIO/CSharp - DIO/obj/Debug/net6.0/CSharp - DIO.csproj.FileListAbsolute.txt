@@ -1,0 +1,15 @@
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\bin\Debug\net6.0\CSharp - DIO.exe
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\bin\Debug\net6.0\CSharp - DIO.deps.json
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\bin\Debug\net6.0\CSharp - DIO.runtimeconfig.json
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\bin\Debug\net6.0\CSharp - DIO.dll
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\bin\Debug\net6.0\ref\CSharp - DIO.dll
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\bin\Debug\net6.0\CSharp - DIO.pdb
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\obj\Debug\net6.0\CSharp - DIO.csproj.AssemblyReference.cache
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\obj\Debug\net6.0\CSharp - DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\obj\Debug\net6.0\CSharp - DIO.AssemblyInfoInputs.cache
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\obj\Debug\net6.0\CSharp - DIO.AssemblyInfo.cs
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\obj\Debug\net6.0\CSharp - DIO.csproj.CoreCompileInputs.cache
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\obj\Debug\net6.0\CSharp - DIO.dll
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\obj\Debug\net6.0\ref\CSharp - DIO.dll
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\obj\Debug\net6.0\CSharp - DIO.pdb
+C:\Users\WENDELL\source\repos\Projetos\Projetos\C#\CSharp - DIO\CSharp - DIO\obj\Debug\net6.0\CSharp - DIO.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06f74f46-f404-423d-b9da-415b06d9de3f": {
+      "ProjectGuid": "06f74f46-f404-423d-b9da-415b06d9de3f",
+      "DisplayName": "CSharp - DIO",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
